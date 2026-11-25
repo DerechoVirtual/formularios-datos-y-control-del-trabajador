@@ -1,0 +1,29 @@
+{
+  "name": "formularios-datos-y-control-del-trabajador",
+  "owner": {
+    "name": "Derecho Virtual",
+    "url": "https://jurisprudenciator.lexiaipro.org"
+  },
+  "metadata": {
+    "description": "Protección de datos y control empresarial · España (11 formularios). Para el control de la actividad y los datos de la plantilla: información sobre protección de datos a los empleados, videovigilancia y geolocalización, uso de medios informáticos y teléfono de empresa, desconexión digital, códigos de conducta y de vestimenta, y cláusulas de confidencialidad. Requiere Jurisprudenciator conectado: sin él las skills no redactan ni verifican nada.",
+    "version": "1.1.0"
+  },
+  "plugins": [
+    {
+      "name": "formularios-datos-y-control-del-trabajador",
+      "source": "./",
+      "description": "Protección de datos y control empresarial · España (11 formularios). Para el control de la actividad y los datos de la plantilla: información sobre protección de datos a los empleados, videovigilancia y geolocalización, uso de medios informáticos y teléfono de empresa, desconexión digital, códigos de conducta y de vestimenta, y cláusulas de confidencialidad. Requiere Jurisprudenciator conectado: sin él las skills no redactan ni verifican nada.",
+      "version": "1.1.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "laboral",
+        "datos-y-control-empresarial"
+      ]
+    }
+  ]
+}
